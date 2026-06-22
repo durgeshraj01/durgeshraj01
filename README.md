@@ -5,9 +5,6 @@
 
 <!-- Typing SVG Animation -->
 
- +Full+Stack+Developer+%7C+Java+Enthusiast;🚀+Building+Scalable+Web+Applications;☁️+Cloud+Certified+%7C+Oracle+%26+NPTEL;💡+Problem+Solver+%7C+70%2B+LeetCode+Problems;🌱+CSE+Student+@+Lovely+Professional+University" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <!-- Social Badges -->
