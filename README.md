@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Durgesh%20Raj&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20Developer%20%7C%20CSE%20Student&descAlignY=60&descSize=18&descColor=8b949e" />
 
 <!-- Typing SVG Animation -->
-<a href="https://git.io/typing-svg">
+
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=👨‍💻+Full+Stack+Developer+%7C+Java+Enthusiast;🚀+Building+Scalable+Web+Applications;☁️+Cloud+Certified+%7C+Oracle+%26+NPTEL;💡+Problem+Solver+%7C+70%2B+LeetCode+Problems;🌱+CSE+Student+@+Lovely+Professional+University" alt="Typing SVG" />
 </a>
 
