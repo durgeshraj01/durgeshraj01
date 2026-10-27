@@ -46,13 +46,13 @@ public class DurgeshRaj {
 
     private final Map<String, String> achievements = Map.of(
         "🏅 Rajya Puraskar",    "Scouts & Guides — State Level Award",
-        "🌟 National Level",    "Shortlisted for Rashtriya Puraskar",
-        "⭐ HackerRank",        "3-Star Java Badge",
-        "🧩 LeetCode",          "70+ Problems Solved"
+        "🌟 Rastriya Puruskar",    "Shortlisted for Rashtriya Puraskar",
+        "⭐ HackerRank",        "4-Star Java Badge",
+        "🧩 GeeksforGeeks",     "150+ Problems Solved"
     );
 
     private final List<String> currentFocus = List.of(
-        "Mastering System Design & DSA",
+        "Java Backend & DSA",
         "Building production-grade Full Stack apps",
         "Cracking Software Engineering Internships 2026"
     );
@@ -126,16 +126,6 @@ public class DurgeshRaj {
        ⭐  Achieved 3-Star Java Badge on HackerRank
        🌟  Shortlisted for Rashtriya Puraskar (National Level)
 
-2025  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-       🧩  Solved 70+ problems on LeetCode
-       📐  Deep diving into DSA, System Design & Backend Architecture
-
-2026  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-       🚀  Actively seeking SWE Internship / Full-Time roles  ← YOU ARE HERE
-```
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -198,14 +188,15 @@ public class DurgeshRaj {
 
 ## 🏆 Achievements & Recognition
 
-<div align="center">
+<div align="center"> 
 
-| 🏅 Achievement | 📋 Details |
+| 🏅 Achievement | 📋 Details |  
 |:---:|:---|
-| 🥇 **Rajya Puraskar Award** | State-Level Award in Scouts & Guides — excellence in leadership & service |
-| 🌟 **Rashtriya Puraskar** | Shortlisted for National Level Award — top-tier recognition |
-| ⭐ **HackerRank 3-Star Java** | Demonstrated strong Java problem-solving proficiency |
-| 🧩 **LeetCode 70+ Problems** | Consistent DSA practice — arrays, strings, trees & more |
+| ⭐ **HackerRank 4-Star Java** | Demonstrated strong Java problem-solving proficiency |  
+| 🧩 **GeeksforGeeks 150 Problems** | Consistent DSA practice — arrays, strings, trees & more |
+
+
+
 
 </div>
 
